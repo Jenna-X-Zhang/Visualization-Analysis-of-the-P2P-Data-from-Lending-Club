@@ -13,7 +13,6 @@ PS: If you are interested, check out the presentation I made for this project.
 
 Let's get into it. 
 
-<img width="1207" alt="Screen Shot 2022-08-10 at 9 20 35 PM" src="https://user-images.githubusercontent.com/88406647/184054359-06fa2a18-9426-4eea-b14d-c2dc83e04d16.png">
 
 <img width="1220" alt="Screen Shot 2022-08-10 at 9 19 27 PM" src="https://user-images.githubusercontent.com/88406647/184054427-7103cbf5-1a7c-41aa-8103-86dd025d70c4.png">
 
