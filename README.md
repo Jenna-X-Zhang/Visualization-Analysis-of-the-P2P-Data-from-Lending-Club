@@ -14,3 +14,5 @@ Let's get into it.
 https://youtu.be/tYTBT2fblFo
 
 ![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)(https://youtu.be/tYTBT2fblFo)
+
+[![homepage](http://commonmark.org/help/images/favicon.png)](https://youtu.be/tYTBT2fblFo "Redirect to homepage")
