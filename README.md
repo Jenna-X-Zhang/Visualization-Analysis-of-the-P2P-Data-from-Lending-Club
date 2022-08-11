@@ -13,5 +13,23 @@ PS: If you are interested, check out the presentation I made for this project.
 
 Let's get into it. 
 
-<img width="1227" alt="Screen Shot 2022-08-10 at 3 09 03 PM" src="https://user-images.githubusercontent.com/88406647/184052729-9a108453-d16e-4bb7-8005-c52ada4cbda7.png">
+<img width="1207" alt="Screen Shot 2022-08-10 at 9 20 35 PM" src="https://user-images.githubusercontent.com/88406647/184054359-06fa2a18-9426-4eea-b14d-c2dc83e04d16.png">
+
+<img width="1220" alt="Screen Shot 2022-08-10 at 9 19 27 PM" src="https://user-images.githubusercontent.com/88406647/184054427-7103cbf5-1a7c-41aa-8103-86dd025d70c4.png">
+
+
+<img width="1225" alt="Screen Shot 2022-08-10 at 9 19 32 PM" src="https://user-images.githubusercontent.com/88406647/184054397-cecd8c40-ce73-45f3-b4a1-90c499c88d59.png">
+
+<img width="1224" alt="Screen Shot 2022-08-10 at 9 19 38 PM" src="https://user-images.githubusercontent.com/88406647/184054436-0a4e6984-bde5-4cb3-adbf-4837d3f162f4.png">
+
+<img width="1218" alt="Screen Shot 2022-08-10 at 9 19 45 PM" src="https://user-images.githubusercontent.com/88406647/184054450-5807c0ea-c53f-4d32-af4a-69f3efb514a4.png">
+
+<img width="1218" alt="Screen Shot 2022-08-10 at 9 19 56 PM" src="https://user-images.githubusercontent.com/88406647/184054497-a7f89832-4ef0-4a47-90d2-3e03800f57bd.png">
+
+
+<img width="1204" alt="Screen Shot 2022-08-10 at 9 20 17 PM" src="https://user-images.githubusercontent.com/88406647/184054363-6af0b653-ff2d-419e-8779-0eb968a5545f.png">
+
+<img width="1204" alt="Screen Shot 2022-08-10 at 9 20 17 PM" src="https://user-images.githubusercontent.com/88406647/184054518-6140c944-d88f-48b6-8637-aece01e9c8cf.png">
+
+<img width="1207" alt="Screen Shot 2022-08-10 at 9 20 35 PM" src="https://user-images.githubusercontent.com/88406647/184054525-e232423e-95c0-41b9-9420-fb9c3d9526c8.png">
 
