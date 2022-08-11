@@ -26,8 +26,7 @@ Let's get into it.
 
 <img width="1218" alt="Screen Shot 2022-08-10 at 9 19 56 PM" src="https://user-images.githubusercontent.com/88406647/184054497-a7f89832-4ef0-4a47-90d2-3e03800f57bd.png">
 
-
-<img width="1204" alt="Screen Shot 2022-08-10 at 9 20 17 PM" src="https://user-images.githubusercontent.com/88406647/184054363-6af0b653-ff2d-419e-8779-0eb968a5545f.png">
+<img width="1221" alt="Screen Shot 2022-08-10 at 9 20 07 PM" src="https://user-images.githubusercontent.com/88406647/184054649-33e90845-a09c-41dd-81de-30aae953bdb9.png">
 
 <img width="1204" alt="Screen Shot 2022-08-10 at 9 20 17 PM" src="https://user-images.githubusercontent.com/88406647/184054518-6140c944-d88f-48b6-8637-aece01e9c8cf.png">
 
